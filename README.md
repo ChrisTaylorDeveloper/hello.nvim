@@ -1,2 +1,3 @@
-# hello.nvim
-A dummy Neovim plugin.
+# semi-colon.nvim
+
+Remaps semi-colon to colon.
